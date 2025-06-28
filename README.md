@@ -17,8 +17,8 @@ Requirements
 
 Installation  
 1. Clone the repository:  
-git clone https://github.com/yourusername/social-graph-visualizer.git
-cd social-graph-visualizer
+git clone https://github.com/geekfilin/Friend-graph-visualizer.git
+cd Friend-graph-visualizer
   
 
 2. Install dependencies:  
