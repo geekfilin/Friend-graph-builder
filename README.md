@@ -29,7 +29,7 @@ API Setup
 Before using, you need to obtain and add API keys:  
 
 For Twitter:
-1. Register at developer.twitter.com  
+1. Register at docs.x.com
 2. Create an application  
 3. Get the keys: consumer_key, consumer_secret, access_token, access_token_secret  
 
